@@ -1,16 +1,24 @@
-### Hi there 👋
+![Inserir um pouquinho de texto (1)](https://user-images.githubusercontent.com/83037450/128212395-cb55c063-0c7d-4833-b7a2-5bda56922eb2.png)
+<center>
+<table>
+    <tr>
+        <td></td>
+        <td>
+    </tr>
+</table>
+</center>
 
-<!--
-**evtdias/evtdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá!
+            
+## Sou Everton Dias Corbis :smile:.
 
-Here are some ideas to get you started:
+Experiencia de mais de oito anos na area de TI, hoje atuo como Desenvolvedor IOS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/evtdias)](https://github.com/evtdias)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-dias/)](https://www.linkedin.com/in/everton-dias/)
+
+Views
+
+![](https://komarev.com/ghpvc/?username=evtdias&color=blue)
