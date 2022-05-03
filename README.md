@@ -12,7 +12,7 @@
             
 ## Sou Everton Dias Corbis :smile:.
 
-Experiencia de mais de oito anos na area de TI, hoje atuo como Desenvolvedor IOS.
+Desenvolvedor IOS jr
 
 ## Sobre mim
 
